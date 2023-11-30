@@ -1,1 +1,4 @@
 # NAIRA-VALUE-ANALYSIS
+This is a comprehensive analysis of the currency valuation of the Nigerian Naira (NGN) in comparison to the United States dollar (USD) spanning the years from 1999 to 2023. This study seeks to provide a deep understanding of the dynamic exchange rate fluctuations, key trends, and various influencing factors that have shaped this critical aspect of Nigeria's economic landscape over the past two and a half decades.
+The Naira value data and fuel price data from 1999 to 2023 was gotten from the Nigerian Bereau of Statistics, and it was collected via Microsoft Excel. The Data was cleaned and modelled in the Power Query of PowerBI and the findings and report was visualized using PowerBI.
+The insights and Recommnedation are shown in the report which is attached to this repository in a PDF format. 
